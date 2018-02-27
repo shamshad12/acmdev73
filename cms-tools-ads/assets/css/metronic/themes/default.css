@@ -1,0 +1,211 @@
+/***
+default theme
+***/
+
+/***
+Reset and overrides  
+***/
+body { 
+  background-color:#323232 !important;
+}
+
+/***
+Page header
+***/
+.header .navbar-inner {
+    background-color: #FFFFFF !important;
+    background-image: none !important;
+    border-bottom: 1px solid #CDCDCD !important;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2) !important;
+    filter: none !important;
+}
+
+.header .btn-navbar {  
+  background-color: #1f1f1f !important;
+} 
+
+.header .nav .dropdown-toggle:hover, 
+.header .nav .dropdown.open .dropdown-toggle {
+  background-color: #eee !important;
+}
+
+.header .nav li.dropdown .dropdown-toggle i {
+  color: #4d4d4d !important;
+}
+
+/***
+Page sidebar
+***/
+.page-sidebar > ul > li > a {
+  border-top: 1px solid #616161 !important;
+  color: #fff !important;
+}
+
+.page-sidebar > ul > li:last-child > a {
+   border-bottom: 1px solid transparent !important;
+}
+
+.page-sidebar > ul > li a i {
+    color: #57e1e5;
+}
+
+.page-sidebar > ul > li.open > a, 
+.page-sidebar > ul > li >a:hover, 
+.page-sidebar > ul > li:hover >a {  
+  background: #00a0a5;
+}
+
+
+.page-sidebar > ul > li.active > a {
+  background: #00a0a5!important;  
+  border-top-color: transparent !important;
+  color:#fff;
+}  
+
+.page-sidebar > ul > li.active > a i {
+  color:#fff;
+}
+
+.page-sidebar > ul > li > a.open {
+  background: #4D207A;
+}
+
+.page-sidebar ul > li > a > .arrow:before,
+.page-sidebar > ul > li > a > .arrow.open:before {  
+   color: #919091 !important;
+}
+
+.page-sidebar ul > li.active > a .arrow:before,
+.page-sidebar > ul > li.active > a .arrow.open:before {  
+   color: #fff !important;
+}
+
+.page-sidebar > ul > li > ul.sub-menu > li > a {
+  color: #fff;
+  margin-left:0px;  
+  padding-left: 5px; 
+}
+
+.page-sidebar > ul > li > ul.sub-menu > li:first-child > a {
+  border-top: 0px !important;
+}
+
+.page-sidebar > ul > li > ul.sub-menu > li.active > a, 
+.page-sidebar > ul > li > ul.sub-menu > li > a:hover {
+  color: #fff !important;
+  background: #008a8e !important;  
+}
+
+.page-sidebar > ul > li > ul.sub-menu > li > a:hover {
+  background: #09b3b8 !important;
+}
+
+/* 3rd level sub menu */
+.page-sidebar > ul > li > ul.sub-menu  li > ul.sub-menu > li.active > a, 
+.page-sidebar > ul > li > ul.sub-menu  li > ul.sub-menu > li > a:hover,
+.page-sidebar > ul > li > ul.sub-menu  li.open > a  {
+  color: #fff !important;
+  background: #008a8e !important;  
+}
+
+.page-sidebar > ul > li > ul.sub-menu  a .arrow:before,
+.page-sidebar > ul > li > ul.sub-menu  a .arrow.open:before {  
+   color: #919091 !important;
+}
+
+/* sidebar search */
+
+.page-sidebar .sidebar-search input{
+  background-color: #3d3d3d  !important;  
+  color: #bababa !important;
+}
+
+.page-sidebar .sidebar-search .input-box {
+  border-bottom-color: #959595  !important;
+}
+
+.page-sidebar .sidebar-search .submit {
+  background-image: url(../../img/search-icon.png);
+}
+
+/***
+Sidebar toggler
+***/
+.sidebar-toggler {  
+  background-image: url(../../../img/metronic/sidebar-toggler.jpg);
+  background-color: #333;
+}
+
+/* search box bg color on expanded */
+.sidebar-closed .page-sidebar .sidebar-search.open {
+  background-color: #00898d !important;
+}
+
+.sidebar-closed .page-sidebar .sidebar-search.open .remove {  
+  background-image: url("../../img/sidebar-search-close.png");
+}
+
+/* sub menu bg color on hover menu item */
+.sidebar-closed .page-sidebar > ul > li:hover .sub-menu {
+  background-color: #00898d;
+}
+
+/***
+Horizontal Menu(new in v1.2)
+***/
+
+/*search*/
+
+.header .hor-menu .hor-menu-search-form-toggler.hide {
+  background: #101010 url(../../img/hor-menu-search-close.png) no-repeat center;
+}
+
+.header .hor-menu .search-form {
+  background:#101010;
+}
+
+.header .hor-menu .search-form .btn {
+  color: #999;
+  background: #2d2d2d url(../../img/search-icon.png) no-repeat center;
+}
+
+.header .hor-menu .search-form form input {
+  color: #999;
+}
+
+.header .hor-menu .search-form form input::-webkit-input-placeholder { /* WebKit browsers */
+    color: #999;
+}
+.header .hor-menu .search-form form input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #999;
+}
+.header .hor-menu .search-form form input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #999;
+}
+.header .hor-menu .search-form form input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #999;
+}
+
+/***
+Landscape phone to portrait tablet
+***/
+@media (max-width:979px) { 
+  /***
+  page sidebar
+  ***/
+  .page-sidebar {
+    background-color: #232427 !important;
+  }
+
+  .page-sidebar > ul > li > a {
+    border-top: 1px solid #2c2d30 !important;
+  }
+
+  .page-sidebar > ul > li:last-child > a {
+    border-bottom: 0 !important;
+  }
+
+  .page-sidebar .sidebar-search input{
+    background-color: #232427  !important;  
+  }
+}

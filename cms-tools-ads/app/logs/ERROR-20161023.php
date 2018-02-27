@@ -1,0 +1,62 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2016-10-23 13:42:55 - [ERROR]  --> 404 Page Not Found --> assets 
+ERROR - 2016-10-23 13:43:06 - [ERROR]  --> Severity: Notice  --> Undefined index: id /var/www/html/cms-tools-ads/app/models/campaign-manager/master/model_prices.php 88 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: shortcode /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1042 
+ERROR - 2016-10-23 13:43:08 - [ERROR]  --> Severity: Notice  --> Undefined index: keyword /var/www/html/cms-tools-ads/app/models/partner_campaign_manager/campaigns/model_campaigns.php 1043 
+ERROR - 2016-10-23 13:43:37 - [ERROR]  --> 404 Page Not Found --> assets 
+ERROR - 2016-10-23 13:51:53 - [ERROR]  --> 404 Page Not Found --> assets 
+ERROR - 2016-10-23 13:59:43 - [ERROR]  --> Severity: Notice  --> Undefined index: clicks /var/www/html/cms-tools-ads/app/models/campaign-manager/report/model_vendor_indo_reporting.php 136 
+ERROR - 2016-10-23 13:59:43 - [ERROR]  --> Severity: Notice  --> Undefined index: leads /var/www/html/cms-tools-ads/app/models/campaign-manager/report/model_vendor_indo_reporting.php 138 
+ERROR - 2016-10-23 13:59:43 - [ERROR]  --> Severity: Notice  --> Undefined index: converts /var/www/html/cms-tools-ads/app/models/campaign-manager/report/model_vendor_indo_reporting.php 139 
+ERROR - 2016-10-23 14:13:45 - [ERROR]  --> Severity: Notice  --> Undefined index: clicks /var/www/html/cms-tools-ads/app/models/campaign-manager/report/model_vendor_indo_reporting.php 136 
+ERROR - 2016-10-23 14:13:45 - [ERROR]  --> Severity: Notice  --> Undefined index: leads /var/www/html/cms-tools-ads/app/models/campaign-manager/report/model_vendor_indo_reporting.php 138 
+ERROR - 2016-10-23 14:13:45 - [ERROR]  --> Severity: Notice  --> Undefined index: converts /var/www/html/cms-tools-ads/app/models/campaign-manager/report/model_vendor_indo_reporting.php 139 
